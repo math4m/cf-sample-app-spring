@@ -1,2 +1,3 @@
 # cf-sample-app-spring
-# cf-sample-app-spring
+
+Sample app for Pivotal Cloud Foundry
